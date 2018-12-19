@@ -6761,7 +6761,7 @@ SP_EAXAW
 
 SP_EAXAW_GAMEPLAY_DESC
 '''Злые, агрессивные черви-амазонки с ксенофобскими взглядами.
-Предпочитают [[PT_TERRAN]] планеты
+Предпочитают [[PT_TERRAN]] планеты.
 [[encyclopedia ORGANIC_SPECIES_TITLE]], [[encyclopedia XENOPHOBIC_SPECIES_TITLE]]
 '''
 
@@ -6851,7 +6851,7 @@ SP_TAEGHIRUS
 
 SP_TAEGHIRUS_GAMEPLAY_DESC
 '''Слабые, нелетающие птицы, объединившиеся ради общего сотрудничества.
-Предпочитают [[PT_SWAMP]] планеты
+Предпочитают [[PT_SWAMP]] планеты.
 [[encyclopedia ORGANIC_SPECIES_TITLE]], [[encyclopedia TELEPATHIC_TITLE]]
 '''
 
@@ -6884,7 +6884,7 @@ SP_GEORGE
 
 SP_GEORGE_GAMEPLAY_DESC
 '''Единая сущность, обладающая телепатией, состоящая из множества многоножек.
-Предпочитают [[PT_TUNDRA]] планеты
+Предпочитают [[PT_TUNDRA]] планеты.
 [[encyclopedia LITHIC_SPECIES_TITLE]], [[encyclopedia TELEPATHIC_TITLE]]
 '''
 
@@ -6979,7 +6979,7 @@ SP_REPLICON
 
 SP_REPLICON_GAMEPLAY_DESC
 '''Малообразованные самореплицирующие роботы.
-Prefer [[PT_RADIATED]] planets.
+Предпочитают [[PT_RADIATED]] планеты.
 [[encyclopedia ROBOTIC_SPECIES_TITLE]]
 '''
 
@@ -7058,7 +7058,7 @@ SP_SETINON
 
 SP_SETINON_GAMEPLAY_DESC
 '''Индивидуалистичные разумные микроорганизмы.
-Предпочитают [[PT_SWAMP]] планеты
+Предпочитают [[PT_SWAMP]] планеты.
 [[encyclopedia ORGANIC_SPECIES_TITLE]]
 '''
 
@@ -7078,7 +7078,7 @@ SP_NYMNMN
 
 SP_NYMNMN_GAMEPLAY_DESC
 '''Разумные магнитные волны планетарного масштаба.
-Предпочитают [[PT_DESERT]] планеты
+Предпочитают [[PT_DESERT]] планеты.
 [[encyclopedia SELF_SUSTAINING_SPECIES_TITLE]]
 '''
 
@@ -7087,7 +7087,7 @@ SP_TRENCHERS
 
 SP_TRENCHERS_GAMEPLAY_DESC
 '''Загадочные колесные роботы, тщательно нарезающие на поверхности своей планеты кривые и спирали.
-Предпочитают [[PT_BARREN]] планеты
+Предпочитают [[PT_BARREN]] планеты.
 [[encyclopedia ROBOTIC_SPECIES_TITLE]]
 '''
 
@@ -7096,7 +7096,7 @@ SP_RAAAGH
 
 SP_RAAAGH_GAMEPLAY_DESC
 '''Высокотерриториальные фелиноиды.
-Предпочитают [[PT_TERRAN]] планеты
+Предпочитают [[PT_TERRAN]] планеты.
 [[encyclopedia ORGANIC_SPECIES_TITLE]]
 '''
 
@@ -7119,7 +7119,7 @@ SP_BEIGEGOO
 
 SP_BEIGEGOO_GAMEPLAY_DESC
 '''Безумный, сильно закрытый планетарный нано-рой.
-Предпочитают [[PT_RADIATED]] планеты
+Предпочитают [[PT_RADIATED]] планеты.
 [[encyclopedia ROBOTIC_SPECIES_TITLE]]
 '''
 
@@ -7132,7 +7132,7 @@ SP_SILEXIAN
 
 SP_SILEXIAN_GAMEPLAY_DESC
 '''Светящиеся роботы-садовники, оставленные на волю судьбы.
-Предпочитают [[PT_TERRAN]] планеты
+Предпочитают [[PT_TERRAN]] планеты.
 [[encyclopedia ROBOTIC_SPECIES_TITLE]]
 '''
 
@@ -7155,7 +7155,7 @@ SP_KOBUNTURA
 
 SP_KOBUNTURA_GAMEPLAY_DESC
 '''Разумные магнитные пылевые образования с тягой к строительству и конструированию.
-Предпочитают [[PT_BARREN]] планеты
+Предпочитают [[PT_BARREN]] планеты.
 [[encyclopedia SELF_SUSTAINING_SPECIES_TITLE]]
 '''
 
@@ -7196,7 +7196,7 @@ SP_GISGUFGTHRIM
 
 SP_GISGUFGTHRIM_GAMEPLAY_DESC
 '''Травоядные ракообразные, живущие колонией в едином желеподобном образовании планетарного масштаба.
-Предпочитают [[PT_TOXIC]] планеты
+Предпочитают [[PT_TOXIC]] планеты.
 [[encyclopedia ORGANIC_SPECIES_TITLE]]
 '''
 
@@ -7209,7 +7209,7 @@ SP_HIDDENGARDENER
 
 SP_HIDDENGARDENER_GAMEPLAY_DESC
 '''Разумная грибница, живущая под поверхностью и выращивающая растения себе в пищу.
-Prefers [[PT_TERRAN]] planets
+Предпочитает [[PT_TERRAN]] планеты.
 [[encyclopedia ORGANIC_SPECIES_TITLE]]
 '''
 
@@ -7364,7 +7364,7 @@ SP_BANFORO
 
 SP_BANFORO_GAMEPLAY_DESC
 '''Симпатичные и усердные звёздные наблюдатели.
-Предпочитают [[PT_BARREN]] планеты
+Предпочитают [[PT_BARREN]] планеты.
 [[encyclopedia LITHIC_SPECIES_TITLE]]
 '''
 
